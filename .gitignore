@@ -1,6 +1,7 @@
 # Gradle files
 .gradle/
 build/
+.terraform/
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -15,6 +16,7 @@ captures/
 *.aab
 *.apk
 output-metadata.json
+.exe
 
 # IntelliJ
 *.iml
